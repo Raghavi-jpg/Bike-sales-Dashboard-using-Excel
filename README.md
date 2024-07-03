@@ -1,0 +1,1 @@
+The primary goal of this project is to analyze bike purchase sales data to identify trends, patterns, and insights that can help improve sales strategies, inventory management, and customer targeting. By leveraging Excel's data analysis and visualization capabilities, we aim to transform raw sales data into actionable business intelligence.
